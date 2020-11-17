@@ -2,7 +2,7 @@
 
 ### I Am Aman (DevAman) !
 ### Self Taught Web Developer
-> JavaScript
+> JavaScript <
 
 ```
 const life = () => {
