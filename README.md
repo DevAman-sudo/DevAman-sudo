@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Full Stack Web Development in JavaScript Enviroment 💗
 - 👯 I’m looking to collaborate with other content creators 💯
 - 🥅 2020 Goals: Growing Freelance Curiour 👑
-- ⚡ Fun fact: I love to d play chess/  Brain Games 🎮
+- ⚡ Fun fact: I love to play chess/  Brain Games 🎮
 
 <br>
 
