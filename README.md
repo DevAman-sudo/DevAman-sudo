@@ -1,6 +1,6 @@
-### Hi there, I'm Aman - [DevAman] 👋
+## Hi there, I'm Aman - [DevAman] 👋
 
-## I'm a Self Taught Web Developer, Freelancer, and Fast Learner!!
+# I'm a Self Taught Web Developer, Freelancer, and Fast Learner!!
 
 - 🌱 I’m currently learning Full Stack Web Development in JavaScript Enviroment 💗
 - 👯 I’m looking to collaborate with other content creators 💯
@@ -9,7 +9,7 @@
 
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML5" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
