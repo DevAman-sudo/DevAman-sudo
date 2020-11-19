@@ -30,7 +30,7 @@
 
 function favLanguage(language) {
     const favLanguage = `${language}` ;
-    >console.log(favLanguage);
+    console.log(favLanguage);
 }
 favLanguage("JavaScript");
 
